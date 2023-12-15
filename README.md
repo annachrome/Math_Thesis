@@ -6,7 +6,7 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 
 **Link to Thesis**
 
-[See Thesis in PDF viewer.](https://github.com/annachrome/Math_Thesis/blob/main/pdfs/Math_Thesis.pdf)
+[See Thesis in PDF viewer.](https://github.com/annachrome/Math_Thesis/blob/main/Math_Thesis.pdf)
 
 **Key Figures**
 <img width="1042" alt="Screenshot 2023-12-15 at 11 53 45 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/bc28d674-7370-45d1-88ee-1c4e2c6c7eb1">
