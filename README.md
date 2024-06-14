@@ -1,7 +1,7 @@
 **Abstract**
 
 This thesis covers a novel proof connecting the comparability graphs of posets and transitive graphs. I define transitive graphs as graphs G that have a labeling such that a non-attacking rook placement directly corresponds to the partition of G’s vertices into non-adjacent cliques, i.e. a set of proper colorings of the vertices.
-The proven theorem states that the class of comparability graphs is ex- actly the class of transitive graphs. In applications, the rook vector of a board can be directly used to find the chromatic polynomial of the board’s corresponding comparability graph.
+The proven theorem states that the class of comparability graphs is exactly the class of transitive graphs. In applications, the rook vector of a board can be directly used to find the chromatic polynomial of the board’s corresponding comparability graph.
 I also observe and define ”bi-relevant chain labeling”, which is a labeling of complementary comparability graphs such that their combined partial orders forms a coherent linear order. Further study is needed to explore how theories for rooks, graphs, chromatic polynomials and posets meet.
 Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat of this work.
 
