@@ -63,15 +63,11 @@ Hence the chain labeling essentially requires the vertices to be ordered such th
 
 <p align="center">
   <img width="718" alt="Screenshot 2023-12-15 at 11 57 03 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/a8773516-3fc0-44cf-9369-19a8ea2548ef">
+  <img width="713" alt="Screenshot 2023-12-15 at 11 56 22 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/79f059c2-d427-4bac-a0fe-5c5a5a157691">
   
   
   <img width="719" alt="Screenshot 2023-12-15 at 11 56 17 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/ef138d55-49c3-488c-b85f-d58c408c795d">
-</p>
-
-
-<p align="center">  
   
-  <img width="713" alt="Screenshot 2023-12-15 at 11 56 22 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/79f059c2-d427-4bac-a0fe-5c5a5a157691">
   
   <img width="717" alt="Screenshot 2023-12-15 at 11 56 31 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/dc3e6424-c535-4ed3-a2c8-69662909bee2">
 </p>
