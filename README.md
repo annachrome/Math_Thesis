@@ -17,8 +17,10 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
   
   
   <img width="834" alt="Screenshot 2024-06-19 at 12 27 14 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2e61b2ca-6239-451f-b8c4-831fba683a26">
+</p>
 
-Our graph G and its complement G'
+**Our graph G and its complement G'**
+<p align="center">
 
 <img width="849" alt="Screenshot 2024-06-19 at 12 41 46 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2c799bd6-01c5-43be-9f21-ae564251f9e5">
 
@@ -50,6 +52,11 @@ Our graph G and its complement G'
   
 
 </p>
+
+To see if a graph fulfills the duality above, we need to see if we can find a certain labeling of its vertices. In the thesis, **I prove that graphs satisfying this duality are exactly the set of comparability graphs**.
+Comparability graphs are representations of posets (partially ordered sets), and partial orders satisfy the transitive relation. 
+Hence this certain labeling essentially requires the vertices to be ordered such that they fulfill transitivity.
+
 
 ### Labeling Graph Vertices
 
