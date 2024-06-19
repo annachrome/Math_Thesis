@@ -23,7 +23,7 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 </p>
 
 
-**Introducing the Game of Non-Attacking Rooks**
+### Introducing the Game of Non-Attacking Rooks
 <p align="center">
   
   <img width="700" alt="Screenshot 2023-12-15 at 11 54 31 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/7deb5764-4ae6-41bf-8312-92abdae276c1">
