@@ -51,12 +51,11 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 
 </p>
 
+
+### Labeling Graph Vertices
 To see if a graph fulfills the duality above, we need to see if we can find a "chain labeling" of its vertices. In the thesis, **I prove that graphs satisfying this duality are exactly the set of comparability graphs**.
 Comparability graphs are representations of posets (partially ordered sets), and partial orders satisfy the transitive relation. 
 Hence the chain labeling essentially requires the vertices to be ordered such that they fulfill transitivity.
-
-
-### Labeling Graph Vertices
 
 <p align="center">
   <img width="718" alt="Screenshot 2023-12-15 at 11 57 03 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/a8773516-3fc0-44cf-9369-19a8ea2548ef">
