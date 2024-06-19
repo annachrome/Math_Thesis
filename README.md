@@ -5,10 +5,7 @@ The proven theorem states that the class of comparability graphs is exactly the 
 I also observe and define ”bi-relevant chain labeling”, which is a labeling of complementary comparability graphs such that their combined partial orders forms a coherent linear order. Further study is needed to explore how theories for rooks, graphs, chromatic polynomials and posets meet.
 Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat of this work.
 
-
-**Link to Thesis**
-
-[See Thesis in PDF viewer.](https://annachrome.github.io/Math_Thesis.pdf)
+[See the full Thesis in a PDF viewer.](https://annachrome.github.io/Math_Thesis.pdf)
 
 # Key Figures
 ### A Toy Example: Graph Proper Coloring
