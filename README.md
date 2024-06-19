@@ -15,17 +15,24 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 <p align="center">
   <img width="838" alt="Screenshot 2024-06-19 at 12 27 07 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/20e2d539-79e8-4da8-b2b3-7241eac40f49">
   
+  
   <img width="834" alt="Screenshot 2024-06-19 at 12 27 14 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2e61b2ca-6239-451f-b8c4-831fba683a26">
+  
   
   <img width="700" alt="Screenshot 2023-12-15 at 11 53 45 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/bc28d674-7370-45d1-88ee-1c4e2c6c7eb1">
   
+  
   <img width="720" alt="Screenshot 2023-12-15 at 11 54 03 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/8b354c43-21ee-486e-a022-aca2e0af49c6">
+  
   
   <img width="700" alt="Screenshot 2023-12-15 at 11 54 31 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/7deb5764-4ae6-41bf-8312-92abdae276c1">
   
+  
   <img width="718" alt="Screenshot 2023-12-15 at 11 57 03 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/a8773516-3fc0-44cf-9369-19a8ea2548ef">
   
+  
   <img width="719" alt="Screenshot 2023-12-15 at 11 56 17 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/ef138d55-49c3-488c-b85f-d58c408c795d">
+  
   
   <img width="713" alt="Screenshot 2023-12-15 at 11 56 22 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/79f059c2-d427-4bac-a0fe-5c5a5a157691">
   
