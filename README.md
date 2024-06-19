@@ -11,7 +11,7 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 [See Thesis in PDF viewer.](https://annachrome.github.io/Math_Thesis.pdf)
 
 # Key Figures
-###A Toy Example: Graph Proper Coloring
+### A Toy Example: Graph Proper Coloring
 <p align="center">
   <img width="838" alt="Screenshot 2024-06-19 at 12 27 07 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/20e2d539-79e8-4da8-b2b3-7241eac40f49">
   
