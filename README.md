@@ -17,7 +17,11 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
   
   
   <img width="834" alt="Screenshot 2024-06-19 at 12 27 14 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2e61b2ca-6239-451f-b8c4-831fba683a26">
+
+<img width="849" alt="Screenshot 2024-06-19 at 12 41 46 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2c799bd6-01c5-43be-9f21-ae564251f9e5">
+
 </p>
+
 
 **Introducing the Game of Non-Attacking Rooks**
 <p align="center">
@@ -26,7 +30,6 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 </p>
 <p align="center">  
   
-<img width="849" alt="Screenshot 2024-06-19 at 12 41 46 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2c799bd6-01c5-43be-9f21-ae564251f9e5">
 <img width="696" alt="Screenshot 2024-06-19 at 12 42 20 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/b4d978d4-ca49-49a2-b672-c6137f96d3f2">
 <img width="730" alt="Screenshot 2024-06-19 at 12 42 39 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/da2172ca-b2b1-4d4e-9821-0ab87de36fa6">
 <img width="820" alt="Screenshot 2024-06-19 at 12 44 01 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2ddd806b-0f68-4ede-8492-d4e63e144f17">
