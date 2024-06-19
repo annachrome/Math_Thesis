@@ -22,13 +22,16 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 **Introducing the Game of Non-Attacking Rooks**
 <p align="center">
   
+  <img width="700" alt="Screenshot 2023-12-15 at 11 54 31 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/7deb5764-4ae6-41bf-8312-92abdae276c1">
+</p>
+<p align="center">  
+  
   <img width="700" alt="Screenshot 2023-12-15 at 11 53 45 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/bc28d674-7370-45d1-88ee-1c4e2c6c7eb1">
   
   
   <img width="720" alt="Screenshot 2023-12-15 at 11 54 03 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/8b354c43-21ee-486e-a022-aca2e0af49c6">
   
-  
-  <img width="700" alt="Screenshot 2023-12-15 at 11 54 31 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/7deb5764-4ae6-41bf-8312-92abdae276c1">
+
 </p>
 
 
