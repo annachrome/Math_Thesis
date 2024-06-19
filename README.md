@@ -54,9 +54,9 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 
 </p>
 
-To see if a graph fulfills the duality above, we need to see if we can find a certain labeling of its vertices. In the thesis, **I prove that graphs satisfying this duality are exactly the set of comparability graphs**.
+To see if a graph fulfills the duality above, we need to see if we can find a "chain labeling" of its vertices. In the thesis, **I prove that graphs satisfying this duality are exactly the set of comparability graphs**.
 Comparability graphs are representations of posets (partially ordered sets), and partial orders satisfy the transitive relation. 
-Hence this certain labeling essentially requires the vertices to be ordered such that they fulfill transitivity.
+Hence the chain labeling essentially requires the vertices to be ordered such that they fulfill transitivity.
 
 
 ### Labeling Graph Vertices
