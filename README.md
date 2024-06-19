@@ -19,8 +19,9 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
   <img width="834" alt="Screenshot 2024-06-19 at 12 27 14 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2e61b2ca-6239-451f-b8c4-831fba683a26">
 </p>
 
-**Our graph G and its complement G'**
 <p align="center">
+
+<img width="990" alt="Screenshot 2024-06-19 at 1 26 47 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/9541c6d9-7abd-431e-9567-8cb52bcb2356">
 
 <img width="849" alt="Screenshot 2024-06-19 at 12 41 46 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2c799bd6-01c5-43be-9f21-ae564251f9e5">
 
