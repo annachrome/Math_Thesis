@@ -1,4 +1,4 @@
-**Abstract**
+# Abstract
 
 This thesis covers a novel proof connecting the comparability graphs of posets and transitive graphs. I define transitive graphs as graphs G that have a labeling such that a non-attacking rook placement directly corresponds to the partition of G’s vertices into non-adjacent cliques, i.e. a set of proper colorings of the vertices.
 The proven theorem states that the class of comparability graphs is exactly the class of transitive graphs. In applications, the rook vector of a board can be directly used to find the chromatic polynomial of the board’s corresponding comparability graph.
@@ -10,14 +10,17 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 
 [See Thesis in PDF viewer.](https://annachrome.github.io/Math_Thesis.pdf)
 
-
-**Key Figures**
+# Key Figures
+**A Toy Example: Graph Proper Coloring**
 <p align="center">
   <img width="838" alt="Screenshot 2024-06-19 at 12 27 07 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/20e2d539-79e8-4da8-b2b3-7241eac40f49">
   
   
   <img width="834" alt="Screenshot 2024-06-19 at 12 27 14 PM" src="https://github.com/annachrome/annachrome.github.io/assets/84694222/2e61b2ca-6239-451f-b8c4-831fba683a26">
-  
+</p>
+
+**Introducing the Game of Non-Attacking Rooks**
+<p align="center">
   
   <img width="700" alt="Screenshot 2023-12-15 at 11 53 45 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/bc28d674-7370-45d1-88ee-1c4e2c6c7eb1">
   
@@ -26,13 +29,16 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
   
   
   <img width="700" alt="Screenshot 2023-12-15 at 11 54 31 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/7deb5764-4ae6-41bf-8312-92abdae276c1">
-  
-  
+</p>
+
+
+<p align="center">
   <img width="718" alt="Screenshot 2023-12-15 at 11 57 03 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/a8773516-3fc0-44cf-9369-19a8ea2548ef">
   
   
   <img width="719" alt="Screenshot 2023-12-15 at 11 56 17 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/ef138d55-49c3-488c-b85f-d58c408c795d">
-  
+</p>
+<p align="center">  
   
   <img width="713" alt="Screenshot 2023-12-15 at 11 56 22 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/79f059c2-d427-4bac-a0fe-5c5a5a157691">
   
