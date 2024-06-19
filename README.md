@@ -38,7 +38,7 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 
 </p>
 
-### Labeling Graph Vertices
+
 
 <p align="center"> 
   <img width="700" alt="Screenshot 2023-12-15 at 11 53 45 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/bc28d674-7370-45d1-88ee-1c4e2c6c7eb1">
@@ -49,6 +49,7 @@ Chapters 1-3 provide the necessary background, and Chapters 4-5 contain the meat
 
 </p>
 
+### Labeling Graph Vertices
 
 <p align="center">
   <img width="718" alt="Screenshot 2023-12-15 at 11 57 03 AM" src="https://github.com/annachrome/Math_Thesis/assets/84694222/a8773516-3fc0-44cf-9369-19a8ea2548ef">
